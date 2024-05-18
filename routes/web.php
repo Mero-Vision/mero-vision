@@ -3,6 +3,7 @@
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\OurTeamController;
 use App\Http\Controllers\TechnologyStackController;
+use App\Http\Controllers\PackagesController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -25,3 +26,7 @@ Route::get('about',[AboutController::class,'index']);
 Route::get('technology-stack', [TechnologyStackController::class, 'index']);
 
 Route::get('our-team', [OurTeamController::class, 'index']);
+
+Route::get('packages/web-packages', [PackagesController::class, 'webIndex']);
+
+Route::get('packages/mobile-packages', [PackagesController::class, 'mobileIndex']);

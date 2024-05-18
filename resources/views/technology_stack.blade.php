@@ -104,7 +104,7 @@
 
                                             </div>
 
-                                            
+
 
                                             <div class="col-2 mt-2">
                                                 <img src="{{ url('assets/img/icons/mysql.svg') }}"
@@ -117,9 +117,37 @@
 
                                     </div>
 
-                                    
+                                    <div
+                                        class=" single-item ht-box-images style-02 wow move-up col-lg-12 col-md-12 section-space--mt_60  small-mt__40 ">
+                                        <div class="mx-2 row image-box-wrap">
+                                            <h5>Mobile App Development</h5>
+                                            <br><br>
+                                            <div class="col-2">
+                                                <img src="{{ url('assets/img/icons/flutter_logo.jpeg') }}"
+                                                    style="max-width: 50px;" />
 
-                                    
+                                            </div>
+                                            <div class="col-2">
+                                                <img src="{{ url('assets/img/icons/dart_logo.png') }}"
+                                                    style="width: 50px;" />
+
+                                            </div>
+
+                                            <div class="col-2">
+                                                <img src="{{ url('assets/img/icons/firebase.webp') }}"
+                                                    style="max-width: 50px;" />
+
+                                            </div>
+
+                                        </div>
+
+
+                                    </div>
+
+
+
+
+
 
                                 </div>
                             </div>
@@ -132,6 +160,7 @@
 
                         </div>
                     </div>
+
                 </div>
             </div>
             <!--===========  feature-large-images-wrapper  End =============-->

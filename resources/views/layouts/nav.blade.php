@@ -43,10 +43,6 @@
 
                                                   </li>
 
-
-
-
-
                                                   <li class="has-children">
                                                       <a href="#"><span>Technology</span></a>
                                                       <!-- mega menu -->
@@ -121,6 +117,21 @@
 
                                                       </ul>
                                                   </li>
+
+                                                  <li class="has-children has-children--multilevel-submenu">
+                                                    <a href="#"><span>Packages</span></a>
+                                                    <ul class="submenu">
+                                                        <li class="{{ Request()->is('about') ? 'active' : '' }}">
+                                                            <a href="{{ url('packages/web-packages') }}"><span
+                                                                    class="text-dark">Web Packages</span></a>
+
+                                                        </li>
+                                                        <li class="{{ Request()->is('our-team') ? 'active' : '' }}">
+                                                            <a href="{{ url('packages/mobile-packages') }}"><span
+                                                                    class="text-dark">Mobile Packages</span></a></li>
+
+                                                    </ul>
+                                                </li>
 
                                                   {{-- <li class="{{ Request()->is('/blog') ? 'active' : '' }}">
                                                       <a href="{{ url('#') }}"><span>Careers</span></a>
