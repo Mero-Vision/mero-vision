@@ -4052,6 +4052,7 @@ input[type=checkbox] {
 
 .copyright-text {
   display: inline-block;
+  color: #808080;
 }
 @media only screen and (max-width: 767px) {
   .copyright-text {
@@ -4393,7 +4394,7 @@ ul.footer-widget__horizontal-list li {
 }
 .btn--secondary {
   background-image: none;
-  background-color: #d2a98e;
+  background-color: #ee8434;
 }
 .btn--secondary:hover {
   background-image: none;
@@ -4460,10 +4461,10 @@ ul.footer-widget__horizontal-list li {
   right: 0;
   width: 0;
   height: 1px;
-  background-color: #d2a98e;
+  background-color: #ee8434;
 }
 .hover-style-link:hover {
-  color: #d2a98e;
+  color: #ee8434;
 }
 .hover-style-link:hover:after {
   left: 0;
@@ -5101,14 +5102,14 @@ ul.footer-widget__horizontal-list li {
   font-size: 64px;
   font-weight: 600;
   line-height: 1.41;
-  color: #086AD8;
+  color: #002d6b;
 }
 .fun-fact--one .fun-fact__text {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #d2a98e;
+  color: #ee8434;
 }
 .fun-fact--two {
   margin-bottom: 30px;
@@ -10370,7 +10371,7 @@ ol {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  background-color: #d2a98e;
+  background-color: #ee8434;
 }
 .conact-us-wrap-one .sub-heading {
   margin-top: 15px;
@@ -10461,7 +10462,7 @@ ol {
   min-width: 230px;
 }
 .contact-info-one .btn--secondary:hover, .contact-info-two .btn--secondary:hover, .contact-info-three .btn--secondary:hover {
-  background: #086AD8;
+  background: #002d6b;
 }
 
 .contact-info-two .icon {
@@ -14229,6 +14230,10 @@ blockquote {
 
 h1.dashtitle, h3.our-company, .title{
     color: #ffffff;
+}
+
+.footer-text{
+    color: #002d6b;
 }
 
 

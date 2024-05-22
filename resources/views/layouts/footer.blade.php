@@ -9,17 +9,17 @@
                                 class="img-fluid" alt="">
                         </div>
                         <ul class="footer-widget__list">
-                            <li>Shankamul, New Baneshwor, Kathmandu</li>
-                            <li><a href="mailto:merovision@gmail.com" class="hover-style-link">merovision@gmail.com</a>
+                            <li class="footer-text">Shankamul, New Baneshwor, Kathmandu</li>
+                            <li class="footer-text"><a href="mailto:merovision@gmail.com" class="hover-style-link">merovision@gmail.com</a>
                             </li>
-                            <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+977)9825915122</a></li>
+                            <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+977) 9825915122</a></li>
                             <li><a href="https://merovision.com/"
                                     class="hover-style-link text-color-primary">www.merovision.com</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">IT Services</h6>
-                        <ul class="footer-widget__list">
+                        <ul class="footer-widget__list footer-text">
                             <li><a href="#" class="hover-style-link">Web App Development</a></li>
                             <li><a href="#" class="hover-style-link">Website/eCommerce</a></li>
                             <li><a href="#" class="hover-style-link">Mobile App Development</a></li>
@@ -29,7 +29,7 @@
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Quick links</h6>
-                        <ul class="footer-widget__list">
+                        <ul class="footer-widget__list footer-text">
                             <li><a href="{{url('about')}}" class="hover-style-link">About Us</a></li>
                             <li><a href="{{url('technology-stack')}}" class="hover-style-link">Our Team</a></li>
                             <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
@@ -38,7 +38,7 @@
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Other Services</h6>
-                        <ul class="footer-widget__list">
+                        <ul class="footer-widget__list footer-text">
                             <li><a href="#" class="hover-style-link">AWS Web Hosting</a></li>
                             <li><a href="#" class="hover-style-link">Social Media Marketing</a></li>
                             <li><a href="#" class="hover-style-link">Wordpress Web Hosting</a></li>
@@ -48,7 +48,7 @@
                     </div>
                      <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Technology</h6>
-                        <ul class="footer-widget__list">
+                        <ul class="footer-widget__list footer-text">
                             <li><a href="#" class="hover-style-link">Laravel/PHP</a></li>
                             <li><a href="#" class="hover-style-link">Flutter</a></li>
                             <li><a href="#" class="hover-style-link">React</a></li>
@@ -63,7 +63,7 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6 text-center text-md-start">
-                        <span class="copyright-text">&copy; 2022 - <?php echo Date('Y'); ?> Mero Vision. All Rights
+                        <span class="copyright-text">&copy; 2022 - <?php echo Date('Y'); ?> <b>Mero Vision</b>. All Rights Reserved
                                </span>
                     </div>
                     <div class="col-md-6 text-center text-md-end">
