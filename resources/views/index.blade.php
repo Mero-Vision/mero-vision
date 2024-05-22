@@ -33,7 +33,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="infotechno-hero-text  wow move-up">
                                 <h6>IT Services & Consulting </h6>
-                                <h1 class="font-weight--reguler mb-15">Empowering Your Digital Journey <br>With Mero Vision's IT Solutions </h1>
+                                <h1 class="font-weight--reguler dashtitle mb-15">Empowering Your Digital Journey <br>With Mero Vision's IT Solutions </h1>
                                 <p>Highly Tailored IT Design, Management & Support Services. </p>
                                 <div class="hero-button  mt-30">
                                     <a href="#" class="ht-btn ht-btn-md">Get details</a>
@@ -194,7 +194,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h5 class="heading">IT Design </h5>
-                                                    <div class="text">We provide the most responsive and functional
+                                                    <div class="text-black">We provide the most responsive and functional
                                                         IT design for companies and businesses worldwide.
                                                     </div>
                                                     <div class="circle-arrow">
@@ -220,7 +220,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h5 class="heading">IT Management</h5>
-                                                    <div class="text">It’s possible to simultaneously manage and
+                                                    <div class="text-black">It’s possible to simultaneously manage and
                                                         transform information from one server to another.
                                                     </div>
                                                     <div class="circle-arrow">
@@ -246,7 +246,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h5 class="heading">Data Security</h5>
-                                                    <div class="text">Back up your database, store in a safe and
+                                                    <div class="text-black">Back up your database, store in a safe and
                                                         secure place while still maintaining its accessibility.
                                                     </div>
                                                     <div class="circle-arrow">
@@ -339,7 +339,7 @@
                     </div>
                 </div>
 
-                
+
 
 
             </div>
@@ -382,7 +382,7 @@
                 </div>
             </div>
             <!--=========== fun fact Wrapper End ==========-->
-            
+
             <!--===========  Projects wrapper Start =============-->
             {{-- <div class="projects-wrapper projectinfotechno-bg section-space--ptb_100">
                 <div class="container">
@@ -517,10 +517,10 @@
             </div> --}}
             <!--===========  Projects wrapper End =============-->
 
-            
 
 
-            
+
+
             <!--====================  Conact us Section Start ====================-->
             <div class="contact-us-section-wrappaer infotechno-contact-us-bg section-space--ptb_120">
                 <div class="container">
