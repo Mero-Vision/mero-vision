@@ -282,7 +282,7 @@
                             <div class="col-lg-5">
                                 <div class="section-title small-mb__40 tablet-mb__40">
                                     <h6 class="section-sub-title mb-20">Our company</h6>
-                                    <h3 class="heading">We’ve been thriving in <span class="text-color-primary">3
+                                    <h3 class="heading our-company">We’ve been thriving in <span class="text-color-primary">3
                                             years</span></h3>
                                     <p class="text mt-20">Mero Vision, a leading IT company based in Kathmandu, Nepal,
                                         has been revolutionizing the digital landscape since its establishment in 2022

@@ -204,7 +204,7 @@ ul {
     Default Class
 */
 .text-color-primary {
-  color: #086AD8;
+  color: #ee8434;
 }
 
 .text-color-secondary {
@@ -6937,7 +6937,7 @@ ol {
   display: block;
 }
 .ht-list.style-auto-numbered-02 .list-item .link:hover .title {
-  color: #086AD8;
+  color: #ee8434;
 }
 .ht-list.style-auto-numbered-02 .list-item .link:hover .title::after {
   opacity: 1;
@@ -6945,14 +6945,14 @@ ol {
   -webkit-transform: translateX(0);
       -ms-transform: translateX(0);
           transform: translateX(0);
-  color: #086AD8;
+  color: #ee8434;
 }
 .ht-list.style-auto-numbered-02 .list-item .link:hover .title::before {
   opacity: 0;
   visibility: hidden;
 }
 .ht-list.style-auto-numbered-02 .list-item .link:hover .marker {
-  color: #086AD8;
+  color: #ee8434;
 }
 .ht-list.style-auto-numbered-02 .marker {
   font-size: 24px;
@@ -6960,7 +6960,7 @@ ol {
   line-height: 1.2;
   margin-right: 10px;
   min-width: 45px;
-  color: #ababab;
+  color: #ffffff;
   display: inline-block;
   float: left;
 }
@@ -11467,7 +11467,7 @@ blockquote {
 =         35. Infotechno Css        =
 ===================================*/
 .infotechno-bg {
-  background: #4365ac none repeat scroll 0% 0%;
+  background: #002d6b none repeat scroll 0% 0%;
 }
 
 .infotechno-hero-text h6 {
@@ -11530,7 +11530,7 @@ blockquote {
     video section css
 --------------------------*/
 .infotechno-section-bg-01 {
-  background: url(../img/home-infotechno-section-company-bg.webp) top 140px left no-repeat, -webkit-linear-gradient(top, #FFF 0, #F5F5F5 100%);
+  background: -webkit-linear-gradient(left, #4365ac 0, #002d6b 80%);
 }
 
 .infotechno-video-bg {
@@ -14227,7 +14227,7 @@ blockquote {
   color: #fff !important;
 }
 
-h1.dashtitle{
+h1.dashtitle, h3.our-company, .title{
     color: #ffffff;
 }
 
