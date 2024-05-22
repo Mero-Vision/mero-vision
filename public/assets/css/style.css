@@ -5658,7 +5658,7 @@ ul.footer-widget__horizontal-list li {
   background: #ee8434;
 }
 .ht-box-images.style-01:hover .circle-arrow a {
-  background: #086AD8;
+  background: #002d6b;
 }
 .ht-box-images.style-01:hover .circle-arrow .middle-dot {
   -webkit-animation: boxImageAnimationSignal cubic-bezier(0, 0.55, 0.55, 1) 2s;
@@ -10418,7 +10418,7 @@ ol {
 
 .contact-info-one .icon, .contact-info-two .icon, .contact-info-three .icon {
   font-size: 40px;
-  color: #086ad8;
+  color: #002d6b;
 }
 .contact-info-one .heading, .contact-info-two .heading, .contact-info-three .heading {
   font-size: 15px;

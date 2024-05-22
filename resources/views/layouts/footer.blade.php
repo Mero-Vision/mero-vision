@@ -70,25 +70,25 @@
                         <ul class="list ht-social-networks solid-rounded-icon">
 
                             <li class="item">
-                                <a href="https://twitter.com" target="_blank" aria-label="Twitter"
+                                <a href="https://x.com/merovision720" target="_blank" aria-label="Twitter"
                                     class="social-link hint--bounce hint--top hint--primary">
                                     <i class="fab fa-twitter link-icon"></i>
                                 </a>
                             </li>
                             <li class="item">
-                                <a href="https://facebook.com" target="_blank" aria-label="Facebook"
+                                <a href="https://www.facebook.com/merovision720" target="_blank" aria-label="Facebook"
                                     class="social-link hint--bounce hint--top hint--primary">
                                     <i class="fab fa-facebook-f link-icon"></i>
                                 </a>
                             </li>
                             <li class="item">
-                                <a href="https://instagram.com" target="_blank" aria-label="Instagram"
+                                <a href="https://www.instagram.com/merovision/" target="_blank" aria-label="Instagram"
                                     class="social-link hint--bounce hint--top hint--primary">
                                     <i class="fab fa-instagram link-icon"></i>
                                 </a>
                             </li>
                             <li class="item">
-                                <a href="https://linkedin.com" target="_blank" aria-label="Linkedin"
+                                <a href="https://www.linkedin.com/in/mero-vision-2365b630b/" target="_blank" aria-label="Linkedin"
                                     class="social-link hint--bounce hint--top hint--primary">
                                     <i class="fab fa-linkedin link-icon"></i>
                                 </a>
