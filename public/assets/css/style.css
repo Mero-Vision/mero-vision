@@ -24,7 +24,7 @@ body.no-overflow {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333333;
+  color: #ffffff;
   font-family: "Inter", sans-serif;
   font-weight: 700;
   margin-top: 0;
@@ -674,7 +674,7 @@ input[type=checkbox] {
 }
 
 /*===================================
-    - Breadvrumb  
+    - Breadvrumb
 =================================*/
 .breadcrumb-area {
   padding-top: 114px;
@@ -863,7 +863,7 @@ input[type=checkbox] {
 }
 
 /*=============================================
-   - Scroll top         
+   - Scroll top
 =============================================*/
 .scroll-top {
   position: fixed;
@@ -939,7 +939,7 @@ input[type=checkbox] {
 }
 
 /*=============================================
-   - Dividers Css        
+   - Dividers Css
 =============================================*/
 .separator-wrap {
   text-align: center;
@@ -989,7 +989,7 @@ input[type=checkbox] {
   }
 }
 /*=================================
-=          - Google Map Css       =                
+=          - Google Map Css       =
 ===================================*/
 #googleMap-1, #googleMap-2, #googleMap-3 {
   height: 400px;
@@ -1638,7 +1638,7 @@ input[type=checkbox] {
 }
 
 /* ------------------------
-    Custom Animation 01 
+    Custom Animation 01
 ----------------------------*/
 @-webkit-keyframes headerSlideDown {
   0% {
@@ -1757,7 +1757,7 @@ input[type=checkbox] {
   }
 }
 /* ------------------------
-    Brook Hover Effect 
+    Brook Hover Effect
 ---------------------------*/
 .brook-transition {
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -1792,7 +1792,7 @@ input[type=checkbox] {
   right: auto;
 }
 /* ------------------------
-    Separator Bounce 
+    Separator Bounce
 ---------------------------*/
 @-webkit-keyframes separator-bounce {
   0%, 80%, to {
@@ -2429,7 +2429,7 @@ input[type=checkbox] {
 }
 
 /*======================
-    - language 
+    - language
 =======================*/
 .language-menu {
   padding-right: 25px;
@@ -2927,7 +2927,7 @@ input[type=checkbox] {
   color: #d2a98e;
 }
 
-/*============================== 
+/*==============================
     - Navigation Menu Css
 ===============================*/
 .navigation-menu > ul {
@@ -3490,7 +3490,7 @@ input[type=checkbox] {
   color: #086AD8;
 }
 
-/*================================ 
+/*================================
     - Mobile Menu Overlay Css
 ==================================*/
 .mobile-menu-overlay, .page-oppen-off-sidebar {
@@ -4266,7 +4266,7 @@ ul.footer-widget__horizontal-list li {
   padding: 0 36px;
   text-align: center;
   color: #ffffff;
-  background: #086AD8;
+  background: rgb(234, 168, 109);
   border-width: 1px;
   -webkit-transform: translateY(0px);
       -ms-transform: translateY(0px);
@@ -9875,7 +9875,7 @@ ol {
 }
 /*=====  End of testimonial slider  ======*/
 /* =========================
-    Typed Text 
+    Typed Text
 =============================*/
 .cd-headline.clip span {
   padding: 0;
@@ -11467,7 +11467,7 @@ blockquote {
 =         35. Infotechno Css        =
 ===================================*/
 .infotechno-bg {
-  background: rgb(244, 239, 233) none repeat scroll 0% 0%;
+  background: #4365ac none repeat scroll 0% 0%;
 }
 
 .infotechno-hero-text h6 {
@@ -12894,7 +12894,7 @@ blockquote {
 }
 
 /*=======================================
-=           Careers Job Listing         = 
+=           Careers Job Listing         =
 ========================================*/
 .ht-simple-job-listing .item {
   border-radius: 5px;
@@ -13562,7 +13562,7 @@ blockquote {
 }
 
 /* ====================
-    Toolbar Area 
+    Toolbar Area
 ========================*/
 .aeroland__toolbar .inner {
   position: absolute;
