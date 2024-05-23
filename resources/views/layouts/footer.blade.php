@@ -5,14 +5,16 @@
                 <div class="row footer-widget-wrapper">
                     <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
                         <div class="footer-widget__logo mb-30">
-                            <img src="{{url('assets/img/logo.png')}}" width="160" height="48"
-                                class="img-fluid" alt="">
+                            <img src="{{ url('assets/img/logo.png') }}" width="160" height="48" class="img-fluid"
+                                alt="">
                         </div>
                         <ul class="footer-widget__list">
                             <li class="footer-text">Shankamul, New Baneshwor, Kathmandu</li>
-                            <li class="footer-text"><a href="mailto:merovision@gmail.com" class="hover-style-link">merovision@gmail.com</a>
+                            <li class="footer-text"><a href="mailto:merovision@gmail.com"
+                                    class="hover-style-link">merovision@gmail.com</a>
                             </li>
-                            <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+977) 9825915122</a></li>
+                            <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+977)
+                                    9825915122</a></li>
                             <li><a href="https://merovision.com/"
                                     class="hover-style-link text-color-primary">www.merovision.com</a></li>
                         </ul>
@@ -30,8 +32,8 @@
                     <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Quick links</h6>
                         <ul class="footer-widget__list footer-text">
-                            <li><a href="{{url('about')}}" class="hover-style-link">About Us</a></li>
-                            <li><a href="{{url('technology-stack')}}" class="hover-style-link">Our Team</a></li>
+                            <li><a href="{{ url('about') }}" class="hover-style-link">About Us</a></li>
+                            <li><a href="{{ url('technology-stack') }}" class="hover-style-link">Our Team</a></li>
                             <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
                             <li><a href="#" class="hover-style-link">Terms and Conditions</a></li>
                         </ul>
@@ -46,7 +48,7 @@
                             <li><a href="#" class="hover-style-link">Digital Marketing</a></li>
                         </ul>
                     </div>
-                     <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
+                    <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                         <h6 class="footer-widget__title mb-20">Technology</h6>
                         <ul class="footer-widget__list footer-text">
                             <li><a href="#" class="hover-style-link">Laravel/PHP</a></li>
@@ -63,8 +65,9 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-6 text-center text-md-start">
-                        <span class="copyright-text">&copy; 2022 - <?php echo Date('Y'); ?> <b>Mero Vision</b>. All Rights Reserved
-                               </span>
+                        <span class="copyright-text">&copy; 2022 - <?php echo Date('Y'); ?> <b>Mero Vision</b>. All Rights
+                            Reserved
+                        </span>
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <ul class="list ht-social-networks solid-rounded-icon">
@@ -88,8 +91,8 @@
                                 </a>
                             </li>
                             <li class="item">
-                                <a href="https://www.linkedin.com/in/mero-vision-2365b630b/" target="_blank" aria-label="Linkedin"
-                                    class="social-link hint--bounce hint--top hint--primary">
+                                <a href="https://www.linkedin.com/in/mero-vision-2365b630b/" target="_blank"
+                                    aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
                                     <i class="fab fa-linkedin link-icon"></i>
                                 </a>
                             </li>
@@ -100,6 +103,27 @@
         </div>
     </div>
     <!--====================  End of footer area  ====================-->
+
+    <script type="b02a9a510221071ee0411bf6-text/javascript">   
+           window.fbAsyncInit = function() {
+             FB.init({
+               xfbml            : true,
+               version          : 'v9.0'
+             });
+           };
+   
+           (function(d, s, id) {
+           var js, fjs = d.getElementsByTagName(s)[0];
+           if (d.getElementById(id)) return;
+           js = d.createElement(s); js.id = id;
+           js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+           fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+   </script>
+
+    <div class="fb-customerchat"="" attribution="setup_tool
+" page_id="1828091824092441"="" theme_color="#67b868">
+    </div>
 
     <script src="{{ url('assets/js/modernizr-2.8.3.min.js') }}"></script>
     <script src="{{ url('assets/js/jquery-3.5.1.min.js') }}"></script>
