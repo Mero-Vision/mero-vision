@@ -12,7 +12,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ url('assets/img/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ url('assets/img/favicon-32x32.png') }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ url('assets/img/favicon-16x16.png') }}">
-    <link rel="manifest" href="{{ url('assets/img/site.webmanifest')}}">
+    <link rel="manifest" href="{{ url('assets/img/site.webmanifest') }}">
 
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,3 +23,16 @@
     <link rel="stylesheet" href="{{ url('assets/css/plugins.min.css') }}">
     <link rel="stylesheet" href="{{ url('assets/css/style.css') }}">
     <meta name="google-site-verification" content="SHwata0suD1fElUZQlq0Zv5bxNVFp0Jw6GCRkbccw_U" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R5Q245685L"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-R5Q245685L');
+    </script>

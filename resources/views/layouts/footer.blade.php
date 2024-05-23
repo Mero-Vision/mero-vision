@@ -104,26 +104,7 @@
     </div>
     <!--====================  End of footer area  ====================-->
 
-    <script type="b02a9a510221071ee0411bf6-text/javascript">   
-           window.fbAsyncInit = function() {
-             FB.init({
-               xfbml            : true,
-               version          : 'v9.0'
-             });
-           };
-   
-           (function(d, s, id) {
-           var js, fjs = d.getElementsByTagName(s)[0];
-           if (d.getElementById(id)) return;
-           js = d.createElement(s); js.id = id;
-           js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-           fjs.parentNode.insertBefore(js, fjs);
-         }(document, 'script', 'facebook-jssdk'));
-   </script>
-
-    <div class="fb-customerchat"="" attribution="setup_tool
-" page_id="1828091824092441"="" theme_color="#67b868">
-    </div>
+ 
 
     <script src="{{ url('assets/js/modernizr-2.8.3.min.js') }}"></script>
     <script src="{{ url('assets/js/jquery-3.5.1.min.js') }}"></script>
