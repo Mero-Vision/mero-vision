@@ -24,22 +24,20 @@
 
 
     <div id="main-wrapper">
-        <div class="site-wrapper-reveal">
+        <div class="site-wrapper-reveal about-us">
             <div class="about-banner-wrap banner-space about-us-bg">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 m-auto">
                             <div class="about-banner-content text-center">
-                                <h1 class="mb-15 text-white">About Mero Vision</h1>
-                                <h5 class="font-weight--normal text-white">Discover Mero Vision: Your Go-To Hub for
-                                    Cutting-Edge IT Solutions. From Android and iOS apps to web design and development,
-                                    we're your partner in digital success. With a commitment to excellence and a focus
-                                    on client satisfaction, we tailor our services to meet your unique needs. </h5>
+                                <h1 class="mb-15 text-white">Mero Vision</h1>
+                                <h5 class="font-weight--normal text-white">Your Hub for Cutting-Edge IT Solutions </h5>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            {{-- <div class="container about-us"> --}}
             <!--===========  feature-large-images-wrapper  Start =============-->
             <div class="feature-large-images-wrapper mt-5">
                 <div class="container">
@@ -172,11 +170,7 @@
                     </div>
                 </div>
             </div>
-
-
-
-
-
+        {{-- </div> --}}
         </div>
     </div>
 

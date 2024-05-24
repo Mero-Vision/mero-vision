@@ -4562,7 +4562,7 @@ ul.footer-widget__horizontal-list li {
   color: #086AD8;
 }
 .btn-text:hover {
-  color: #d2a98e;
+  color: #ee8434;
 }
 
 .single-button-group h5 {
@@ -5238,7 +5238,7 @@ ul.footer-widget__horizontal-list li {
   font-size: 12px;
   line-height: 2em;
   letter-spacing: 2px;
-  color: #ababab;
+  color: #ee8434;
   text-transform: uppercase;
   display: -webkit-box;
   display: -webkit-flex;
@@ -5254,7 +5254,7 @@ ul.footer-widget__horizontal-list li {
   line-height: 0.8;
   font-weight: 900;
   margin: 0 5px -5px -5px;
-  color: #d2a98e;
+  color: #ee8434;
 }
 @media only screen and (max-width: 767px) {
   .modern-number-01 span.mark-text {
@@ -12707,7 +12707,7 @@ blockquote {
   line-height: 1;
   font-family: "Font Awesome 5 Free";
   font-weight: 600;
-  color: #d2a98e;
+  color: #ee8434;
 }
 .delivering-optimal-wrap .list-item {
   padding-left: 40px;
@@ -14256,6 +14256,18 @@ h1.dashtitle, h3.our-company, .title{
         color: #ee8434;
         text-decoration: underline;
         font-weight: bold;
+    }
+}
+
+.about-us{
+    background-color: #002d6b ;
+
+    h3.heading, .text{
+        color: #fff;
+    }
+
+    .about-delivering-wrapper{
+        padding-bottom: 75px;
     }
 }
 
