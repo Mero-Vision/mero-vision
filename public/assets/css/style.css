@@ -14236,6 +14236,27 @@ h1.dashtitle, h3.our-company, .title{
     color: #002d6b;
 }
 
+.terms-condition{
+    display: flex;
+    flex-direction: column;
+    margin-top: 75px;
+    margin-bottom: 75px;
+
+    h2, h3{
+        color: #002d6b;
+    }
+
+    p, ul{
+        color: #000;
+    }
+
+    a{
+        color: #ee8434;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+}
+
 .privacy-policy{
 
     display: flex;
