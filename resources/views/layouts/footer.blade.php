@@ -32,7 +32,7 @@
                         <ul class="footer-widget__list footer-text">
                             <li><a href="{{url('about')}}" class="hover-style-link">About Us</a></li>
                             <li><a href="{{url('technology-stack')}}" class="hover-style-link">Our Team</a></li>
-                            <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
+                            <li><a href="{{url('privacy-policy')}}" class="hover-style-link">Privacy Policy</a></li>
                             <li><a href="#" class="hover-style-link">Terms and Conditions</a></li>
                         </ul>
                     </div>

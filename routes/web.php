@@ -4,6 +4,7 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\OurTeamController;
 use App\Http\Controllers\TechnologyStackController;
 use App\Http\Controllers\PackagesController;
+use App\Http\Controllers\PrivacyPolicyController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -30,3 +31,5 @@ Route::get('our-team', [OurTeamController::class, 'index']);
 Route::get('packages/web-packages', [PackagesController::class, 'webIndex']);
 
 Route::get('packages/mobile-packages', [PackagesController::class, 'mobileIndex']);
+
+Route::get('privacy-policy', [PrivacyPolicyController::class, 'index']);
