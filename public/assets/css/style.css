@@ -14269,6 +14269,10 @@ h1.dashtitle, h3.our-company, .title{
     .about-delivering-wrapper{
         padding-bottom: 75px;
     }
+
+    .title{
+        color: #fff !important;
+    }
 }
 
 
