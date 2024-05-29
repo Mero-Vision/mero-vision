@@ -48,13 +48,13 @@
             <!-- ============ Team Member Wrapper Start =============== -->
                 <div class="team-member-wrapper section-space--pt_100 section-space--pb_70">
                     <div class="container">
-                        <div class="row">
+                        {{-- <div class="row">
                             <div class="col-lg-12">
                                 <div class="section-title section-space--mb_60 text-center">
                                     <h3 class="heading">OUR TEAM</h3>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="row ht-team-member-style-two">
                             <div class="col-lg-4 col-md-6 wow move-up">
                                 <div class="grid-item">
@@ -126,7 +126,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
 
                     </div>
                 </div>
