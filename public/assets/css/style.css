@@ -223,9 +223,9 @@ ul {
   background: #333;
 }
 
-.bg-gray {
-  background: #ffffff;
-}
+/* .bg-gray {
+  background: #f6f6f6;
+} */
 
 .bg-gray-2 {
   background: #F6FAFE;
@@ -4316,15 +4316,15 @@ ul.footer-widget__horizontal-list li {
   border-width: 1px;
   line-height: 54px;
   background: transparent;
-  border-color: #086AD8;
-  color: #086AD8;
+  border-color: #002d6b;
+  color: #002d6b;
 }
 .ht-btn--outline:hover, .ht-btn--outline:focus, .ht-btn--outline:active {
   -webkit-transform: translateY(-3px);
       -ms-transform: translateY(-3px);
           transform: translateY(-3px);
   border-color: transparent;
-  background: #086AD8;
+  background: #002d6b;
   color: #ffffff;
 }
 .ht-btn--solid {
@@ -7804,6 +7804,7 @@ ol {
   margin-bottom: 21px;
   z-index: 2;
   position: relative;
+  color: #002d6b;
 }
 .pricing-table-one .pricing-table__image {
   position: relative;
@@ -7881,7 +7882,7 @@ ol {
 }
 .pricing-table-one .pricing-table__list li::before {
   content: "\f00c";
-  color: #d2a98e;
+  color: #ee8434;
   position: absolute;
   top: 12px;
   left: 0;
@@ -7910,7 +7911,7 @@ ol {
   right: 0;
   height: 92px;
   width: 92px;
-  background: #d2a98e;
+  background: #ee8434;
 }
 .pricing-table-one .pricing-table__feature-mark::after {
   -webkit-transform: rotate(-45deg);
@@ -14298,6 +14299,10 @@ h1.dashtitle, h3.our-company, .title{
 
 .position{
     color: #ee8434;
+}
+
+.text-left{
+    color: #000;
 }
 
 
