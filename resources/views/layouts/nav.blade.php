@@ -121,12 +121,17 @@
                                                   <li class="has-children has-children--multilevel-submenu">
                                                     <a href="#"><span>Packages</span></a>
                                                     <ul class="submenu">
-                                                        <li class="{{ Request()->is('about') ? 'active' : '' }}">
+                                                        <li class="{{ Request()->is('packages/web-packages') ? 'active' : '' }}">
                                                             <a href="{{ url('packages/web-packages') }}"><span
                                                                     class="text-dark">Website Packages</span></a>
 
                                                         </li>
-                                                        <li class="{{ Request()->is('our-team') ? 'active' : '' }}">
+                                                         <li class="{{ Request()->is('packages/web-application-packages') ? 'active' : '' }}">
+                                                            <a href="{{ url('packages/web-application-packages') }}"><span
+                                                                    class="text-dark">Web Application Packages</span></a>
+
+                                                        </li>
+                                                        <li class="{{ Request()->is('packages/mobile-packages') ? 'active' : '' }}">
                                                             <a href="{{ url('packages/mobile-packages') }}"><span
                                                                     class="text-dark">Mobile Packages</span></a></li>
 

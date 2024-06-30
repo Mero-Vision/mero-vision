@@ -26,11 +26,11 @@
             <div class="row">
                 <div class="col-12">
                     <div class="breadcrumb_box text-center">
-                        <h1 class="breadcrumb-title text-color-primary">Web Packages</h1>
+                        <h1 class="breadcrumb-title text-color-primary">Web Application Packages</h1>
                         <!-- breadcrumb-list start -->
                         <ul class="breadcrumb-list">
-                            <li class="breadcrumb-item"><a href="{{url('/')}}">Home</a></li>
-                            <li class="breadcrumb-item active">Web Packages</li>
+                            <li class="breadcrumb-item"><a href="{{ url('/') }}">Home</a></li>
+                            <li class="breadcrumb-item active">Web Application Packages</li>
                         </ul>
                         <!-- breadcrumb-list end -->
                     </div>
@@ -62,12 +62,13 @@
                             <div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table wow move-up">
                                 <div class="pricing-table__inner">
                                     <div class="pricing-table__header">
-                                        <h6 class="sub-title">Basic Website Package</h6>
+                                        <h6 class="sub-title">Basic Web Application</h6>
                                         <div class="pricing-table__image">
-                                            <img src="{{url('assets/img/icons/basic.webp')}}" class="img-fluid" alt="">
+                                            <img src="{{ url('assets/img/icons/basic.webp') }}" class="img-fluid"
+                                                alt="">
                                         </div>
                                         <div class="pricing-table__price-wrap">
-                                            <h5 class="text-dark">Price: NPR 50,000</ht>
+                                            <h5 class="text-dark">Price: NPR 100,000</h5>
                                         </div>
                                     </div>
                                     <div class="pricing-table__body">
@@ -77,35 +78,39 @@
                                         <ul class="pricing-table__list text-left">
                                             <li>Responsive Design</li>
                                             <li>Custom Domain</li>
-                                            <li>Basic SEO</li>
-                                            <li>Contact Form</li>
-                                            <li>Social Media Integration</li>
-                                            <li>Google Maps Integration: Embedding Google Maps for location.</li>
-                                            <li>Basic Analytics: Basic website analytics to monitor traffic.</li>
-                                            <li>Content Management System (CMS)</li>
-                                            <li>Basic Blog Setup</li>
+                                            <li>Basic User Authentication</li>
+                                            <li>Database Integration (e.g., MySQL)</li>
+                                            <li>Basic CRUD Operations</li>
+                                            <li>Hosting: 1-year VPS hosting plan.</li>
+                                            <li>Admin Panel</li>
                                             <li>Basic Accessibility Features</li>
-                                            <li>Hosting: 1-year basic hosting plan.</li>
                                             <li>SSL Certificate</li>
                                             <li>Support: 3 months of free technical support.</li>
+                                            <li>Frontend: HTML5, CSS3, JavaScript</li>
+                                            <li>Backend: PHP </li>
+                                            <li>Database: MySQL </li>
+                                            <li>Framework: Laravel (for PHP) </li>
+
 
 
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table pricing-table--popular wow move-up">
+                            <div
+                                class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table pricing-table--popular wow move-up">
                                 <div class="pricing-table__inner">
                                     <div class="pricing-table__feature-mark">
                                         <span>Popular Choice</span>
                                     </div>
                                     <div class="pricing-table__header">
-                                        <h6 class="sub-title">Standard Website Package</h6>
+                                        <h6 class="sub-title">Standard Web Application</h6>
                                         <div class="pricing-table__image">
-                                            <img src="{{url('assets/img/icons/professional.webp')}}" class="img-fluid" alt="">
+                                            <img src="{{ url('assets/img/icons/professional.webp') }}" class="img-fluid"
+                                                alt="">
                                         </div>
-                                         <div class="pricing-table__price-wrap">
-                                            <h5 class="text-dark">Price: NPR 100,000</ht>
+                                        <div class="pricing-table__price-wrap">
+                                            <h5 class="text-dark">Price: NPR 200,000</h5>
                                         </div>
                                     </div>
                                     <div class="pricing-table__body">
@@ -114,19 +119,17 @@
                                         </div>
                                         <ul class="pricing-table__list text-left">
                                             <li>Everything in the Basic Package, plus:</li>
-                                            <li>CMS Integration</li>
-                                            <li>Advanced SEO</li>
-                                            <li>Analytics Setup</li>
-                                            <li>Blog Setup</li>
-                                            <li>E-commerce Capability</li>
-                                            <li>Enhanced Security</li>
-                                            <li>Newsletter Integration</li>
-                                            <li>Custom Forms</li>
-                                            <li>Basic Training</li>
-                                            <li>Testimonials and Reviews</li>
-                                            <li>Portfolio Showcase</li>
+                                            <li>Advanced User Authentication: Social login (e.g., Google, Facebook)</li>
+                                            <li>Advanced Database Integration</li>                                                                           
+                                            <li>Advanced Admin Panel</li>
+                                            <li>Automated Backups</li>
+                                            <li>API Developments</li>
                                             <li>Hosting: 1-year premium hosting plan.</li>
-                                            <li>Support: 6 months of free technical support.</li>
+                                            <li>Support: 6 months of support.</li>
+                                            <li>Frontend: React.js</li>
+                                            <li>Backend: PHP </li>
+                                            <li>Database: MySQL </li>
+                                            <li>Framework: Laravel (for PHP) </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -134,13 +137,18 @@
                             <div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table wow move-up">
                                 <div class="pricing-table__inner">
                                     <div class="pricing-table__header">
-                                        <h6 class="sub-title">Premium Website Package</h6>
+                                        <h6 class="sub-title">Premium Web Application</h6>
                                         <div class="pricing-table__image">
-                                            <img src="{{url('assets/img/icons/advance.webp')}}" class="img-fluid" alt="">
+                                            <img src="{{ url('assets/img/icons/advance.webp') }}" class="img-fluid"
+                                                alt="">
                                         </div>
                                         <div class="pricing-table__price-wrap">
-                                            <h5 class="text-dark">Price: NPR 250,000</ht>
+                                            <h5 class="text-dark">Price: NPR 400,000</h5>
+
                                         </div>
+                                        <p class="text-center text-dark">Pricing may vary based on project requirements.
+                                        </p>
+
                                     </div>
                                     <div class="pricing-table__body">
                                         <div class="pricing-table__footer">
@@ -148,20 +156,18 @@
                                         </div>
                                         <ul class="pricing-table__list text-left">
                                             <li>Everything in the Standard Package, plus:</li>
-                                            <li>Custom Design </li>
-                                            <li>Advanced E-commerce </li>
-                                            <li>Multi-language Support </li>
-                                            <li>Advanced Analytics </li>
-                                            <li>Third-party Integrations </li>
-                                            <li>Content Creation </li>
-                                            <li>Ongoing Support: 1-year free technical support and maintenance. </li>
-                                            <li>Hosting: 1-year premium hosting. </li>
-                                            <li>Advanced Custom Forms </li>
-                                            <li>Video Gallery </li>
-                                            <li>API Development </li>
-                                            <li>Performance Optimization </li>
-                                            <li>Social Media Management </li>
-                                            <li>Backup and Recovery </li>
+                                            <li>Custom System Design </li>                                        
+                                            <li>Advanced Admin Panel </li>
+                                            <li>Payment Gateway Integration</li>
+                                            <li>API Management </li>
+                                            <li>Role-Based Access Control</li>                                             
+                                            <li>Ongoing Support </li>
+                                            <li>Hosting: 1-year premium hosting. </li>                                         
+                                            <li>API Development </li>                                                                       
+                                            <li>Frontend: React.js</li>
+                                            <li>Backend: PHP </li>
+                                            <li>Database: MySQL </li>
+                                            <li>Framework: Laravel (for PHP) </li>
 
                                         </ul>
                                     </div>

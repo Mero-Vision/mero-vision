@@ -10,7 +10,14 @@ class PackagesController extends Controller
         return view('packages.web_package');
     }
 
+    public function webApplicationIndex()
+    {
+        return view('packages.web_application_package');
+    }
+
     public function mobileIndex(){
         return view('packages.mobile_package');
     }
+
+    
 }

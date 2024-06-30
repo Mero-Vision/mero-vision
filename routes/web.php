@@ -32,8 +32,9 @@ Route::get('our-team', [OurTeamController::class, 'index']);
 Route::get('packages/web-packages', [PackagesController::class, 'webIndex']);
 
 Route::get('packages/mobile-packages', [PackagesController::class, 'mobileIndex']);
+Route::get('packages/web-application-packages', [PackagesController::class, 'webApplicationIndex']);
+
 
 Route::get('privacy-policy', [PrivacyPolicyController::class, 'index']);
 
 Route::get('terms-and-condition', [TermsAndConditionController::class, 'index']);
-
