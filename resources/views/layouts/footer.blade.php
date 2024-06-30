@@ -10,8 +10,8 @@
                         </div>
                         <ul class="footer-widget__list">
                             <li class="footer-text">Shankamul, New Baneshwor, Kathmandu</li>
-                            <li class="footer-text"><a href="mailto:merovision@gmail.com"
-                                    class="hover-style-link">merovision@gmail.com</a>
+                            <li class="footer-text"><a href="mailto:merovision720@gmail.com"
+                                    class="hover-style-link">merovision720@gmail.com</a>
                             </li>
                             <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+977)
                                     9825915122</a></li>
