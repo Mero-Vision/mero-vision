@@ -62,14 +62,12 @@
                             <div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table wow move-up">
                                 <div class="pricing-table__inner">
                                     <div class="pricing-table__header">
-                                        <h6 class="sub-title">Basic</h6>
+                                        <h6 class="sub-title">Basic Website Package</h6>
                                         <div class="pricing-table__image">
                                             <img src="{{url('assets/img/icons/basic.webp')}}" class="img-fluid" alt="">
                                         </div>
                                         <div class="pricing-table__price-wrap">
-                                            <h6 class="currency">$</h6>
-                                            <h6 class="price">19</h6>
-                                            <h6 class="period">/mo</h6>
+                                            <h5 class="text-dark">Price: NPR 50,000</ht>
                                         </div>
                                     </div>
                                     <div class="pricing-table__body">
@@ -77,9 +75,21 @@
                                             <a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
                                         </div>
                                         <ul class="pricing-table__list text-left">
-                                            <li>03 projects</li>
-                                            <li>Quality &amp; Customer Experience</li>
-                                            <li><span class="featured">Try for free, forever!</span></li>
+                                            <li>Responsive Design</li>
+                                            <li>Custom Domain</li>
+                                            <li>Basic SEO</li>
+                                            <li>Contact Form</li>
+                                            <li>Social Media Integration</li>
+                                            <li>Google Maps Integration: Embedding Google Maps for location d</li>
+                                            <li>Basic Analytics: Basic website analytics to monitor traffic.</li>
+                                            <li>Content Management System (CMS)</li>
+                                            <li>Basic Blog Setup</li>
+                                            <li>Basic Accessibility Features</li>
+                                            <li>Hosting: 1-year basic hosting plan.</li>
+                                            <li>SSL Certificate</li>
+                                            <li>Support: 3 months of free technical support.</li>
+
+
                                         </ul>
                                     </div>
                                 </div>
@@ -90,14 +100,12 @@
                                         <span>Popular Choice</span>
                                     </div>
                                     <div class="pricing-table__header">
-                                        <h6 class="sub-title">Professional</h6>
+                                        <h6 class="sub-title">Standard Website Package</h6>
                                         <div class="pricing-table__image">
                                             <img src="{{url('assets/img/icons/professional.webp')}}" class="img-fluid" alt="">
                                         </div>
-                                        <div class="pricing-table__price-wrap">
-                                            <h6 class="currency">$</h6>
-                                            <h6 class="price">59</h6>
-                                            <h6 class="period">/mo</h6>
+                                         <div class="pricing-table__price-wrap">
+                                            <h5 class="text-dark">Price: NPR 100,000</ht>
                                         </div>
                                     </div>
                                     <div class="pricing-table__body">
@@ -105,10 +113,20 @@
                                             <a href="#" class="ht-btn  ht-btn-md ">Get started</a>
                                         </div>
                                         <ul class="pricing-table__list text-left">
-                                            <li>Unlimited project</li>
-                                            <li>Power And Predictive Dialing</li>
-                                            <li>Quality &amp; Customer Experience</li>
-                                            <li>24/7 phone and email support</li>
+                                            <li>Everything in the Basic Package, plus:</li>
+                                            <li>CMS Integration</li>
+                                            <li>Advanced SEO</li>
+                                            <li>Analytics Setup</li>
+                                            <li>Blog Setup</li>
+                                            <li>E-commerce Capability</li>
+                                            <li>Enhanced Security</li>
+                                            <li>Newsletter Integration</li>
+                                            <li>Custom Forms</li>
+                                            <li>Basic Training</li>
+                                            <li>Testimonials and Reviews</li>
+                                            <li>Portfolio Showcase</li>
+                                            <li>Hosting: 1-year premium hosting plan.</li>
+                                            <li>Support: 6 months of free technical support.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -116,14 +134,12 @@
                             <div class="col-12 col-md-6 col-lg-4 col-xl-4 pricing-table wow move-up">
                                 <div class="pricing-table__inner">
                                     <div class="pricing-table__header">
-                                        <h6 class="sub-title">Advance</h6>
+                                        <h6 class="sub-title">Premium Website Package</h6>
                                         <div class="pricing-table__image">
                                             <img src="{{url('assets/img/icons/advance.webp')}}" class="img-fluid" alt="">
                                         </div>
                                         <div class="pricing-table__price-wrap">
-                                            <h6 class="currency">$</h6>
-                                            <h6 class="price">29</h6>
-                                            <h6 class="period">/mo</h6>
+                                            <h5 class="text-dark">Price: NPR 250,000</ht>
                                         </div>
                                     </div>
                                     <div class="pricing-table__body">
@@ -131,9 +147,22 @@
                                             <a href="#" class="ht-btn ht-btn-md ht-btn--outline">Get started</a>
                                         </div>
                                         <ul class="pricing-table__list text-left">
-                                            <li>10 projects</li>
-                                            <li>Power And Predictive Dialing </li>
-                                            <li>Quality &amp; Customer Experience </li>
+                                            <li>Everything in the Standard Package, plus:</li>
+                                            <li>Custom Design </li>
+                                            <li>Advanced E-commerce </li>
+                                            <li>Multi-language Support </li>
+                                            <li>Advanced Analytics </li>
+                                            <li>Third-party Integrations </li>
+                                            <li>Content Creation </li>
+                                            <li>Ongoing Support: 1-year free technical support and maintenance. </li>
+                                            <li>Hosting: 1-year premium hosting. </li>
+                                            <li>Advanced Custom Forms </li>
+                                            <li>Video Gallery </li>
+                                            <li>API Development </li>
+                                            <li>Performance Optimization </li>
+                                            <li>Social Media Management </li>
+                                            <li>Backup and Recovery </li>
+
                                         </ul>
                                     </div>
                                 </div>

@@ -123,7 +123,7 @@
                                                     <ul class="submenu">
                                                         <li class="{{ Request()->is('about') ? 'active' : '' }}">
                                                             <a href="{{ url('packages/web-packages') }}"><span
-                                                                    class="text-dark">Web Packages</span></a>
+                                                                    class="text-dark">Website Packages</span></a>
 
                                                         </li>
                                                         <li class="{{ Request()->is('our-team') ? 'active' : '' }}">
